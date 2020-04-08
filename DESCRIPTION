@@ -94,7 +94,9 @@ Suggests:
     shinytest,
     yaml,
     future,
-    dygraphs
+    dygraphs,
+    ragg,
+    showtext
 Remotes:
     rstudio/htmltools,
     rstudio/thematic
