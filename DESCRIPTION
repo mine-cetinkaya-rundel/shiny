@@ -79,8 +79,7 @@ Imports:
     crayon,
     rlang (>= 0.4.0),
     fastmap (>= 1.0.0),
-    withr,
-    thematic
+    withr
 Suggests:
     datasets,
     Cairo (>= 1.5-5),
@@ -95,6 +94,7 @@ Suggests:
     yaml,
     future,
     dygraphs,
+    thematic,
     ragg,
     showtext
 Remotes:
