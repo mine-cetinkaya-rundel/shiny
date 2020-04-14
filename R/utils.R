@@ -1811,3 +1811,4 @@ constantTimeEquals <- function(raw1, raw2) {
 cat_line <- function(...) {
   cat(paste(..., "\n", collapse = ""))
 }
+
